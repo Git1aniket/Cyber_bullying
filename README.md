@@ -1,6 +1,5 @@
 # Cyber_bullying
 cyber bullying tweet project using BERT model 
-Here's an **overview of your uploaded Jupyter Notebook titled "cyberbullying project.ipynb"**:
 
 ---
 
